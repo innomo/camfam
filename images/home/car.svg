@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M20.871,14.052l-1.926-5.393C18.591,7.667,17.645,7,16.591,7h-5.169C12.408,5.26,13,3.19,13,1.29   C13,0.579,12.421,0,11.71,0C7.312,0,2,3.158,2,7.08c0,0.821,0.279,1.575,0.804,2.257c-0.29,0.629-0.557,1.288-0.781,2.016   c-0.082,0.264,0.066,0.543,0.33,0.625C2.401,11.993,2.451,12,2.5,12c0.214,0,0.412-0.138,0.478-0.353   c0.171-0.552,0.364-1.06,0.571-1.548c0.257,0.212,0.524,0.393,0.803,0.529l-1.223,3.423C2.482,14.218,2,14.802,2,15.5v4   c0,0.651,0.419,1.201,1,1.408V22c0,1.103,0.897,2,2,2h1c1.103,0,2-0.897,2-2v-1h8v1c0,1.103,0.897,2,2,2h1c1.103,0,2-0.897,2-2   v-1.092c0.581-0.207,1-0.757,1-1.408v-4C22,14.802,21.518,14.218,20.871,14.052z"/>
+	<path style="fill:#596368;" d="M7,22c0,0.551-0.449,1-1,1H5c-0.551,0-1-0.449-1-1v-1h3V22z"/>
+	<path style="fill:#546E7A;" d="M21,19.5c0,0.276-0.224,0.5-0.5,0.5h-17C3.224,20,3,19.776,3,19.5v-4C3,15.224,3.224,15,3.5,15h17   c0.276,0,0.5,0.224,0.5,0.5V19.5z"/>
+	<circle style="fill:#303C42;" cx="5.5" cy="17.5" r="1.5"/>
+	<circle style="fill:#FAFAFA;" cx="5.5" cy="17.5" r="0.5"/>
+	<path style="fill:#303C42;" d="M14.5,16h-5C9.224,16,9,16.224,9,16.5S9.224,17,9.5,17h5c0.276,0,0.5-0.224,0.5-0.5   S14.776,16,14.5,16z"/>
+	<path style="fill:#303C42;" d="M14.5,18h-5C9.224,18,9,18.224,9,18.5S9.224,19,9.5,19h5c0.276,0,0.5-0.224,0.5-0.5   S14.776,18,14.5,18z"/>
+	<path style="fill:#BBDEFB;" d="M5.919,11c1.887,0,3.592-1.235,4.858-3h5.813c0.632,0,1.2,0.4,1.413,0.995L19.791,14H4.209   l1.094-3.063C5.505,10.972,5.709,11,5.919,11z"/>
+	<circle style="fill:#303C42;" cx="18.5" cy="17.5" r="1.5"/>
+	<circle style="fill:#FAFAFA;" cx="18.5" cy="17.5" r="0.5"/>
+	<polygon style="opacity:0.2;fill:#FFFFFF;" points="7,14 13,8 14.5,8 8.5,14  "/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M16.591,8H16l-6,6h1l5.945-5.945C16.829,8.027,16.713,8,16.591,8z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.5903" y1="17.5974" x2="9.0426" y2="21.0498">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M6.711,16.618L6.709,16.62C6.89,16.868,7,17.17,7,17.5C7,18.327,6.327,19,5.5,19   c-0.366,0-0.697-0.137-0.957-0.355l-0.002,0.002L5.893,20h4.199L6.711,16.618z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="18.5903" y1="17.5974" x2="20.8499" y2="19.857">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_2_);" d="M21,19.5v-1.592l-1.289-1.289l-0.002,0.002C19.89,16.868,20,17.17,20,17.5   c0,0.827-0.673,1.5-1.5,1.5c-0.366,0-0.697-0.137-0.957-0.355l-0.002,0.002L18.893,20H20.5C20.776,20,21,19.776,21,19.5z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="4.75" y1="20.25" x2="6.9567" y2="22.4567">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_3_);" d="M7,22v-1H4l2,2C6.551,23,7,22.551,7,22z"/>
+	<path style="fill:#596368;" d="M20,22c0,0.551-0.449,1-1,1h-1c-0.551,0-1-0.449-1-1v-1h3V22z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="17.75" y1="20.25" x2="19.9567" y2="22.4567">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_4_);" d="M20,22v-1h-3l2,2C19.551,23,20,22.551,20,22z"/>
+	<path style="opacity:0.05;" d="M5.919,11.5c2.192,0,4.128-1.452,5.496-3.5h-0.638c-1.267,1.765-2.972,3-4.858,3   c-0.211,0-0.414-0.028-0.616-0.063L5.13,11.421C5.389,11.473,5.653,11.5,5.919,11.5z"/>
+	<path style="fill:#7CB342;" d="M3,7.081C3,3.806,7.79,1,11.71,1C11.87,1,12,1.13,12,1.29C12,5.21,9.194,10,5.919,10   c-0.707,0-1.357-0.287-1.938-0.838c1.19-2.275,2.95-3.84,5.739-5.213c0.248-0.122,0.35-0.422,0.228-0.669   C9.826,3.031,9.526,2.931,9.279,3.051c-2.803,1.38-4.665,3.011-5.953,5.262C3.118,7.924,3,7.514,3,7.081z"/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M11.71,1.5c0.141,0,0.244,0.108,0.27,0.242C11.988,1.591,12,1.439,12,1.29   C12,1.13,11.87,1,11.71,1C7.79,1,3,3.806,3,7.081c0,0.069,0.021,0.133,0.027,0.201C3.308,4.137,7.91,1.5,11.71,1.5z"/>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="0.8532" y1="8.5385" x2="22.7275" y2="18.7387">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_5_);" d="M20.871,14.052l-1.926-5.393C18.591,7.667,17.645,7,16.591,7h-5.169   C12.408,5.26,13,3.19,13,1.29C13,0.579,12.421,0,11.71,0C7.312,0,2,3.158,2,7.08c0,0.821,0.279,1.575,0.804,2.257   c-0.29,0.629-0.557,1.288-0.781,2.016c-0.082,0.264,0.066,0.543,0.33,0.625C2.401,11.993,2.451,12,2.5,12   c0.214,0,0.412-0.138,0.478-0.353c0.171-0.552,0.364-1.06,0.571-1.548c0.257,0.212,0.524,0.393,0.803,0.529l-1.223,3.423   C2.482,14.218,2,14.802,2,15.5v4c0,0.651,0.419,1.201,1,1.408V22c0,1.103,0.897,2,2,2h1c1.103,0,2-0.897,2-2v-1h8v1   c0,1.103,0.897,2,2,2h1c1.103,0,2-0.897,2-2v-1.092c0.581-0.207,1-0.757,1-1.408v-4C22,14.802,21.518,14.218,20.871,14.052z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="bio; eco; car; nature" dc:description="bio; eco; car; nature" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
